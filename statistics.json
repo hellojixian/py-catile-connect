@@ -1,0 +1,5215 @@
+{
+  "sentences": {
+    "0": {
+      "id": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "word": [
+        "At",
+        "the",
+        "same",
+        "time",
+        ",",
+        "UN",
+        "agencies",
+        "are",
+        "also",
+        "helping",
+        "to",
+        "provide",
+        "emergency",
+        "relief",
+        "support",
+        ",",
+        "including",
+        "the",
+        "International",
+        "Organization",
+        "for",
+        "Migration",
+        "(",
+        "IOM",
+        ")",
+        ",",
+        "whose",
+        "Displacement",
+        "Tracking",
+        "Matrix",
+        "(",
+        "DTM",
+        ")",
+        "aims",
+        "at",
+        "assisting",
+        "refugees",
+        "and",
+        "third",
+        "country",
+        "nationals",
+        "who",
+        "are",
+        "desperately",
+        "trying",
+        "to",
+        "flee",
+        "fighting",
+        "by",
+        "escaping",
+        "to",
+        "neighbouring",
+        "countries",
+        ".",
+        "\n\n"
+      ],
+      "lemma": [
+        "at",
+        "the",
+        "same",
+        "time",
+        ",",
+        "un",
+        "agency",
+        "be",
+        "also",
+        "help",
+        "to",
+        "provide",
+        "emergency",
+        "relief",
+        "support",
+        ",",
+        "include",
+        "the",
+        "international",
+        "organization",
+        "for",
+        "migration",
+        "(",
+        "iom",
+        ")",
+        ",",
+        "whose",
+        "displacement",
+        "tracking",
+        "matrix",
+        "(",
+        "dtm",
+        ")",
+        "aim",
+        "at",
+        "assist",
+        "refugee",
+        "and",
+        "third",
+        "country",
+        "national",
+        "who",
+        "be",
+        "desperately",
+        "try",
+        "to",
+        "flee",
+        "fighting",
+        "by",
+        "escape",
+        "to",
+        "neighbouring",
+        "country",
+        ".",
+        "\n\n"
+      ],
+      "pos": [
+        "ADP",
+        "DET",
+        "ADJ",
+        "NOUN",
+        "PUNCT",
+        "PROPN",
+        "NOUN",
+        "AUX",
+        "ADV",
+        "VERB",
+        "PART",
+        "VERB",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "PUNCT",
+        "VERB",
+        "DET",
+        "PROPN",
+        "PROPN",
+        "ADP",
+        "PROPN",
+        "PUNCT",
+        "PROPN",
+        "PUNCT",
+        "PUNCT",
+        "DET",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PUNCT",
+        "PROPN",
+        "PUNCT",
+        "VERB",
+        "ADP",
+        "VERB",
+        "NOUN",
+        "CONJ",
+        "ADJ",
+        "NOUN",
+        "NOUN",
+        "PRON",
+        "AUX",
+        "ADV",
+        "VERB",
+        "PART",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "VERB",
+        "ADP",
+        "NOUN",
+        "NOUN",
+        "PUNCT",
+        "SPACE"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "CEFR": [
+        0,
+        0,
+        0,
+        0,
+        -2,
+        -1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3,
+        1,
+        -2,
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        -1,
+        -2,
+        -1,
+        -2,
+        -2,
+        1,
+        -1,
+        -1,
+        -1,
+        -2,
+        -1,
+        -2,
+        2,
+        0,
+        2,
+        3,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        4,
+        2,
+        0,
+        2,
+        0,
+        4,
+        0,
+        -2,
+        -2
+      ],
+      "form": [
+        "are doing",
+        "to do",
+        "does",
+        "doing",
+        "are doing",
+        "to do",
+        "doing"
+      ],
+      "tense1": [
+        "be doing",
+        "do",
+        "do",
+        "do",
+        "be doing",
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (present)",
+        "inf.",
+        "ind. (present)",
+        "ger.",
+        "ind. (present)",
+        "inf.",
+        "ger."
+      ],
+      "CEFR_tense": 1.0,
+      "tense_span": [
+        [
+          9,
+          7
+        ],
+        [
+          10,
+          11
+        ],
+        [
+          35
+        ],
+        [
+          37
+        ],
+        [
+          44,
+          46
+        ],
+        [
+          48,
+          47
+        ],
+        [
+          51
+        ]
+      ],
+      "clause_form": [
+        "who"
+      ],
+      "clause": [
+        "relcl"
+      ],
+      "clause_span": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      ],
+      "CEFR_vocabulary": 3,
+      "CEFR_clause": 4.0,
+      "phrase": [
+        "at the same time",
+        "help to",
+        "international organization",
+        "aim at (someone or something)",
+        "third country"
+      ],
+      "phrase_span": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          9,
+          10
+        ],
+        [
+          18,
+          19
+        ],
+        [
+          35,
+          36
+        ],
+        [
+          40,
+          41
+        ]
+      ],
+      "phrase_confidence": [
+        1.0,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "phrase_ambiguous": [
+        false,
+        true,
+        false,
+        true,
+        true
+      ],
+      "phrase_is_idiom": [
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    },
+    "1": {
+      "id": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "word": [
+        "Sudan",
+        "'s",
+        "national",
+        "army",
+        "and",
+        "the",
+        "Rapid",
+        "Support",
+        "Forces",
+        "(",
+        "RSF",
+        ")",
+        ",",
+        "a",
+        "paramilitary",
+        "unit",
+        ",",
+        "have",
+        "been",
+        "locked",
+        "in",
+        "a",
+        "violent",
+        "conflict",
+        "since",
+        "15",
+        "April",
+        "."
+      ],
+      "lemma": [
+        "sudan",
+        "'s",
+        "national",
+        "army",
+        "and",
+        "the",
+        "rapid",
+        "support",
+        "forces",
+        "(",
+        "rsf",
+        ")",
+        ",",
+        "a",
+        "paramilitary",
+        "unit",
+        ",",
+        "have",
+        "be",
+        "lock",
+        "in",
+        "a",
+        "violent",
+        "conflict",
+        "since",
+        "15",
+        "april",
+        "."
+      ],
+      "pos": [
+        "PROPN",
+        "PART",
+        "ADJ",
+        "NOUN",
+        "CONJ",
+        "DET",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PUNCT",
+        "PROPN",
+        "PUNCT",
+        "PUNCT",
+        "DET",
+        "ADJ",
+        "NOUN",
+        "PUNCT",
+        "AUX",
+        "AUX",
+        "VERB",
+        "ADP",
+        "DET",
+        "ADJ",
+        "NOUN",
+        "CONJ",
+        "PUNCT",
+        "PROPN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        -1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        -2,
+        -1,
+        -2,
+        -2,
+        0,
+        5,
+        1,
+        -2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        3,
+        1,
+        -2,
+        -1,
+        -2
+      ],
+      "form": [
+        "have been done"
+      ],
+      "tense1": [
+        "have been done"
+      ],
+      "tense2": [
+        "ind. (present)"
+      ],
+      "CEFR_tense": 2.5,
+      "tense_span": [
+        [
+          75,
+          76,
+          77
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 3,
+      "CEFR_clause": 3.3,
+      "phrase": [
+        "be locked in"
+      ],
+      "phrase_span": [
+        [
+          76,
+          77,
+          78
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "phrase_ambiguous": [
+        true
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "2": {
+      "id": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "word": [
+        "According",
+        "to",
+        "the",
+        "UN",
+        ",",
+        "more",
+        "than",
+        "400",
+        "people",
+        "have",
+        "been",
+        "killed",
+        "in",
+        "the",
+        "fighting",
+        "while",
+        "tens",
+        "of",
+        "thousands",
+        "of",
+        "people",
+        "are",
+        "estimated",
+        "to",
+        "have",
+        "been",
+        "internally",
+        "displaced",
+        ",",
+        "including",
+        "more",
+        "than",
+        "100",
+        ",",
+        "000",
+        "people",
+        "who",
+        "have",
+        "fled",
+        "to",
+        "neighbouring",
+        "countries",
+        ".",
+        "\n\n"
+      ],
+      "lemma": [
+        "accord",
+        "to",
+        "the",
+        "un",
+        ",",
+        "more",
+        "than",
+        "400",
+        "people",
+        "have",
+        "be",
+        "kill",
+        "in",
+        "the",
+        "fighting",
+        "while",
+        "ten",
+        "of",
+        "thousand",
+        "of",
+        "people",
+        "be",
+        "estimate",
+        "to",
+        "have",
+        "be",
+        "internally",
+        "displace",
+        ",",
+        "include",
+        "more",
+        "than",
+        "100",
+        ",",
+        "000",
+        "people",
+        "who",
+        "have",
+        "flee",
+        "to",
+        "neighbouring",
+        "country",
+        ".",
+        "\n\n"
+      ],
+      "pos": [
+        "VERB",
+        "ADP",
+        "DET",
+        "PROPN",
+        "PUNCT",
+        "ADJ",
+        "ADP",
+        "PUNCT",
+        "NOUN",
+        "AUX",
+        "AUX",
+        "VERB",
+        "ADP",
+        "DET",
+        "NOUN",
+        "CONJ",
+        "NOUN",
+        "ADP",
+        "NOUN",
+        "ADP",
+        "NOUN",
+        "AUX",
+        "VERB",
+        "PART",
+        "AUX",
+        "AUX",
+        "ADV",
+        "VERB",
+        "PUNCT",
+        "VERB",
+        "ADJ",
+        "ADP",
+        "PUNCT",
+        "PUNCT",
+        "PUNCT",
+        "NOUN",
+        "PRON",
+        "AUX",
+        "VERB",
+        "ADP",
+        "NOUN",
+        "NOUN",
+        "PUNCT",
+        "SPACE"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "CEFR": [
+        5,
+        0,
+        0,
+        -1,
+        -2,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1,
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        4,
+        4,
+        -2,
+        0,
+        0,
+        0,
+        -2,
+        -2,
+        -2,
+        0,
+        0,
+        0,
+        4,
+        0,
+        4,
+        0,
+        -2,
+        -2
+      ],
+      "form": [
+        "have been done",
+        "are done",
+        "to have been done",
+        "have done"
+      ],
+      "tense1": [
+        "have been done",
+        "be done",
+        "have been done",
+        "have done"
+      ],
+      "tense2": [
+        "ind. (present)",
+        "ind. (present)",
+        "inf.",
+        "ind. (present)"
+      ],
+      "CEFR_tense": 4.0,
+      "tense_span": [
+        [
+          96,
+          97,
+          95
+        ],
+        [
+          107,
+          108
+        ],
+        [
+          113,
+          109,
+          110,
+          111
+        ],
+        [
+          123,
+          124
+        ]
+      ],
+      "clause_form": [
+        "while",
+        "who"
+      ],
+      "clause": [
+        "advcl",
+        "relcl"
+      ],
+      "clause_span": [
+        [
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121
+        ],
+        [
+          122,
+          123,
+          124,
+          125,
+          126,
+          127
+        ]
+      ],
+      "CEFR_vocabulary": 4,
+      "CEFR_clause": 4.0,
+      "phrase": [
+        "according to (someone or something)",
+        "flee to (something)"
+      ],
+      "phrase_span": [
+        [
+          86,
+          87
+        ],
+        [
+          124,
+          125
+        ]
+      ],
+      "phrase_confidence": [
+        1.0,
+        1.0
+      ],
+      "phrase_ambiguous": [
+        false,
+        false
+      ],
+      "phrase_is_idiom": [
+        true,
+        true
+      ]
+    },
+    "3": {
+      "id": [
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "word": [
+        "Mr.",
+        "Sharma",
+        "moved",
+        "to",
+        "Sudan",
+        "in",
+        "2021",
+        "with",
+        "his",
+        "brother",
+        "."
+      ],
+      "lemma": [
+        "mr.",
+        "sharma",
+        "move",
+        "to",
+        "sudan",
+        "in",
+        "2021",
+        "with",
+        "his",
+        "brother",
+        "."
+      ],
+      "pos": [
+        "PROPN",
+        "PROPN",
+        "VERB",
+        "ADP",
+        "PROPN",
+        "ADP",
+        "PUNCT",
+        "ADP",
+        "PRON",
+        "NOUN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        -1,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        -2,
+        0,
+        0,
+        0,
+        -2
+      ],
+      "form": [
+        "did"
+      ],
+      "tense1": [
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)"
+      ],
+      "CEFR_tense": 0.5,
+      "tense_span": [
+        [
+          132
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 0,
+      "CEFR_clause": 0.4,
+      "phrase": [
+        "move to some place"
+      ],
+      "phrase_span": [
+        [
+          132,
+          133
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "phrase_ambiguous": [
+        true
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "4": {
+      "id": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ],
+      "word": [
+        "At",
+        "the",
+        "time",
+        "violence",
+        "broke",
+        "out",
+        ",",
+        "he",
+        "was",
+        "working",
+        "at",
+        "the",
+        "Omega",
+        "steel",
+        "plant",
+        "and",
+        "living",
+        "with",
+        "160",
+        "workers",
+        "in",
+        "a",
+        "guest",
+        "house",
+        "on",
+        "the",
+        "company",
+        "'s",
+        "premises",
+        "15",
+        "kilometres",
+        "outside",
+        "the",
+        "capital",
+        "city",
+        "of",
+        "Khartoum",
+        ".",
+        "\n\n "
+      ],
+      "lemma": [
+        "at",
+        "the",
+        "time",
+        "violence",
+        "break",
+        "out",
+        ",",
+        "he",
+        "be",
+        "work",
+        "at",
+        "the",
+        "omega",
+        "steel",
+        "plant",
+        "and",
+        "live",
+        "with",
+        "160",
+        "worker",
+        "in",
+        "a",
+        "guest",
+        "house",
+        "on",
+        "the",
+        "company",
+        "'s",
+        "premise",
+        "15",
+        "kilometre",
+        "outside",
+        "the",
+        "capital",
+        "city",
+        "of",
+        "khartoum",
+        ".",
+        "\n\n "
+      ],
+      "pos": [
+        "ADP",
+        "DET",
+        "NOUN",
+        "NOUN",
+        "VERB",
+        "ADP",
+        "PUNCT",
+        "PRON",
+        "AUX",
+        "VERB",
+        "ADP",
+        "DET",
+        "PROPN",
+        "NOUN",
+        "NOUN",
+        "CONJ",
+        "VERB",
+        "ADP",
+        "PUNCT",
+        "NOUN",
+        "ADP",
+        "DET",
+        "NOUN",
+        "NOUN",
+        "ADP",
+        "DET",
+        "NOUN",
+        "PART",
+        "NOUN",
+        "PUNCT",
+        "NOUN",
+        "ADP",
+        "DET",
+        "NOUN",
+        "NOUN",
+        "ADP",
+        "PROPN",
+        "PUNCT",
+        "SPACE"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "CEFR": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        -2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -2,
+        -2
+      ],
+      "form": [
+        "did",
+        "was doing",
+        "was doing"
+      ],
+      "tense1": [
+        "do",
+        "be doing",
+        "be doing"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "ind. (past)",
+        "ind. (past)"
+      ],
+      "CEFR_tense": 1.5,
+      "tense_span": [
+        [
+          145
+        ],
+        [
+          149,
+          150
+        ],
+        [
+          149,
+          157
+        ]
+      ],
+      "clause_form": [
+        "(that)"
+      ],
+      "clause": [
+        "relcl"
+      ],
+      "clause_span": [
+        [
+          144,
+          145,
+          146
+        ]
+      ],
+      "CEFR_vocabulary": 3,
+      "CEFR_clause": 4.5,
+      "phrase": [
+        "at the time",
+        "break out",
+        "work at (something or some place)",
+        "live with (someone or something)",
+        "guest house"
+      ],
+      "phrase_span": [
+        [
+          141,
+          142,
+          143
+        ],
+        [
+          145,
+          146
+        ],
+        [
+          150,
+          151
+        ],
+        [
+          157,
+          158
+        ],
+        [
+          163,
+          164
+        ]
+      ],
+      "phrase_confidence": [
+        0.6666666666666666,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "phrase_ambiguous": [
+        false,
+        true,
+        true,
+        true,
+        false
+      ],
+      "phrase_is_idiom": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "5": {
+      "id": [
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "word": [
+        "\"",
+        "We",
+        "worked",
+        "to",
+        "clean",
+        "the",
+        "environment",
+        "by",
+        "recycling",
+        "scrap",
+        "metal",
+        "."
+      ],
+      "lemma": [
+        "\"",
+        "we",
+        "work",
+        "to",
+        "clean",
+        "the",
+        "environment",
+        "by",
+        "recycle",
+        "scrap",
+        "metal",
+        "."
+      ],
+      "pos": [
+        "PUNCT",
+        "PRON",
+        "VERB",
+        "PART",
+        "VERB",
+        "DET",
+        "NOUN",
+        "ADP",
+        "VERB",
+        "NOUN",
+        "NOUN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        5,
+        1,
+        -2
+      ],
+      "form": [
+        "did",
+        "to do",
+        "doing"
+      ],
+      "tense1": [
+        "do",
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "inf.",
+        "ger."
+      ],
+      "CEFR_tense": 1.0,
+      "tense_span": [
+        [
+          182
+        ],
+        [
+          184,
+          183
+        ],
+        [
+          188
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 5,
+      "CEFR_clause": 0.5,
+      "phrase": [
+        "work to"
+      ],
+      "phrase_span": [
+        [
+          182,
+          183
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "phrase_ambiguous": [
+        true
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "6": {
+      "id": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "word": [
+        "It",
+        "had",
+        "been",
+        "almost",
+        "two",
+        "years",
+        "since",
+        "I",
+        "had",
+        "lived",
+        "there",
+        ",",
+        "and",
+        "things",
+        "were",
+        "going",
+        "well",
+        "."
+      ],
+      "lemma": [
+        "it",
+        "have",
+        "be",
+        "almost",
+        "two",
+        "year",
+        "since",
+        "i",
+        "have",
+        "live",
+        "there",
+        ",",
+        "and",
+        "thing",
+        "be",
+        "go",
+        "well",
+        "."
+      ],
+      "pos": [
+        "PRON",
+        "AUX",
+        "VERB",
+        "ADV",
+        "NUM",
+        "NOUN",
+        "CONJ",
+        "PRON",
+        "AUX",
+        "VERB",
+        "ADV",
+        "PUNCT",
+        "CONJ",
+        "NOUN",
+        "AUX",
+        "VERB",
+        "ADV",
+        "PUNCT"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2
+      ],
+      "form": [
+        "had been",
+        "had done",
+        "were doing"
+      ],
+      "tense1": [
+        "have done",
+        "have done",
+        "be doing"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "ind. (past)",
+        "ind. (past)"
+      ],
+      "CEFR_tense": 2.0,
+      "tense_span": [
+        [
+          193,
+          194
+        ],
+        [
+          200,
+          201
+        ],
+        [
+          206,
+          207
+        ]
+      ],
+      "clause_form": [
+        "since",
+        "and"
+      ],
+      "clause": [
+        "advcl",
+        "cc"
+      ],
+      "clause_span": [
+        [
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        [
+          204,
+          207
+        ]
+      ],
+      "CEFR_vocabulary": 1,
+      "CEFR_clause": 2.5,
+      "phrase": [
+        "go well"
+      ],
+      "phrase_span": [
+        [
+          207,
+          208
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "phrase_ambiguous": [
+        true
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "7": {
+      "id": [
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "word": [
+        "Unexpectedly",
+        ",",
+        "the",
+        "conflict",
+        "started",
+        "there",
+        "on",
+        "15",
+        "April",
+        "."
+      ],
+      "lemma": [
+        "unexpectedly",
+        ",",
+        "the",
+        "conflict",
+        "start",
+        "there",
+        "on",
+        "15",
+        "april",
+        "."
+      ],
+      "pos": [
+        "ADV",
+        "PUNCT",
+        "DET",
+        "NOUN",
+        "VERB",
+        "ADV",
+        "ADP",
+        "PUNCT",
+        "PROPN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        3,
+        -2,
+        0,
+        3,
+        0,
+        0,
+        0,
+        -2,
+        -1,
+        -2
+      ],
+      "form": [
+        "did"
+      ],
+      "tense1": [
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)"
+      ],
+      "CEFR_tense": 0.5,
+      "tense_span": [
+        [
+          214
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 3,
+      "CEFR_clause": 0.2,
+      "phrase": [],
+      "phrase_span": [],
+      "phrase_confidence": [],
+      "phrase_ambiguous": [],
+      "phrase_is_idiom": []
+    },
+    "8": {
+      "id": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237
+      ],
+      "word": [
+        "Both",
+        "the",
+        "military",
+        "and",
+        "the",
+        "paramilitary",
+        "fought",
+        "amongst",
+        "themselves",
+        ",",
+        "and",
+        "the",
+        "airport",
+        "was",
+        "shelled",
+        "and",
+        "burnt",
+        "."
+      ],
+      "lemma": [
+        "both",
+        "the",
+        "military",
+        "and",
+        "the",
+        "paramilitary",
+        "fight",
+        "amongst",
+        "themselves",
+        ",",
+        "and",
+        "the",
+        "airport",
+        "be",
+        "shell",
+        "and",
+        "burn",
+        "."
+      ],
+      "pos": [
+        "CONJ",
+        "DET",
+        "NOUN",
+        "CONJ",
+        "DET",
+        "NOUN",
+        "VERB",
+        "ADP",
+        "PRON",
+        "PUNCT",
+        "CONJ",
+        "DET",
+        "NOUN",
+        "AUX",
+        "VERB",
+        "CONJ",
+        "VERB",
+        "PUNCT"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "CEFR": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        5,
+        1,
+        3,
+        1,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        1,
+        -2
+      ],
+      "form": [
+        "did",
+        "was done"
+      ],
+      "tense1": [
+        "do",
+        "be done"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "ind. (past)"
+      ],
+      "CEFR_tense": 2.0,
+      "tense_span": [
+        [
+          226
+        ],
+        [
+          233,
+          234
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 5,
+      "CEFR_clause": 1.5,
+      "phrase": [
+        "fight amongst"
+      ],
+      "phrase_span": [
+        [
+          226,
+          227
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "phrase_ambiguous": [
+        false
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "9": {
+      "id": [
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256
+      ],
+      "word": [
+        "\n\n",
+        "When",
+        "the",
+        "airport",
+        "was",
+        "destroyed",
+        ",",
+        "we",
+        "got",
+        "worried",
+        "about",
+        "how",
+        "we",
+        "would",
+        "return",
+        "home",
+        "to",
+        "India",
+        "."
+      ],
+      "lemma": [
+        "\n\n",
+        "when",
+        "the",
+        "airport",
+        "be",
+        "destroy",
+        ",",
+        "we",
+        "get",
+        "worried",
+        "about",
+        "how",
+        "we",
+        "would",
+        "return",
+        "home",
+        "to",
+        "india",
+        "."
+      ],
+      "pos": [
+        "SPACE",
+        "CONJ",
+        "DET",
+        "NOUN",
+        "AUX",
+        "VERB",
+        "PUNCT",
+        "PRON",
+        "VERB",
+        "ADJ",
+        "ADP",
+        "CONJ",
+        "PRON",
+        "AUX",
+        "VERB",
+        "ADV",
+        "ADP",
+        "PROPN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        -2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -2
+      ],
+      "form": [
+        "was done",
+        "did",
+        "would do"
+      ],
+      "tense1": [
+        "be done",
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "ind. (past)",
+        "inf."
+      ],
+      "CEFR_tense": 2.0,
+      "tense_span": [
+        [
+          242,
+          243
+        ],
+        [
+          246
+        ],
+        [
+          251,
+          252
+        ]
+      ],
+      "clause_form": [
+        "when",
+        "how"
+      ],
+      "clause": [
+        "advcl",
+        "ncl"
+      ],
+      "clause_span": [
+        [
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        [
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255
+        ]
+      ],
+      "CEFR_vocabulary": 1,
+      "CEFR_clause": 3.0,
+      "phrase": [
+        "home to (something)"
+      ],
+      "phrase_span": [
+        [
+          253,
+          254
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "phrase_ambiguous": [
+        true
+      ],
+      "phrase_is_idiom": [
+        true
+      ]
+    },
+    "10": {
+      "id": [
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267
+      ],
+      "word": [
+        "We",
+        "were",
+        "not",
+        "even",
+        "able",
+        "to",
+        "contact",
+        "anyone",
+        "in",
+        "India",
+        "."
+      ],
+      "lemma": [
+        "we",
+        "be",
+        "not",
+        "even",
+        "able",
+        "to",
+        "contact",
+        "anyone",
+        "in",
+        "india",
+        "."
+      ],
+      "pos": [
+        "PRON",
+        "VERB",
+        "ADV",
+        "ADV",
+        "ADJ",
+        "PART",
+        "VERB",
+        "PRON",
+        "ADP",
+        "PROPN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "CEFR": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        -2
+      ],
+      "form": [
+        "were",
+        "to do"
+      ],
+      "tense1": [
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "inf."
+      ],
+      "CEFR_tense": 0.5,
+      "tense_span": [
+        [
+          258
+        ],
+        [
+          262,
+          263
+        ]
+      ],
+      "clause_form": [],
+      "clause": [],
+      "clause_span": [],
+      "CEFR_vocabulary": 1,
+      "CEFR_clause": 0.5,
+      "phrase": [],
+      "phrase_span": [],
+      "phrase_confidence": [],
+      "phrase_ambiguous": [],
+      "phrase_is_idiom": []
+    },
+    "11": {
+      "id": [
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287
+      ],
+      "word": [
+        "We",
+        "were",
+        "trying",
+        "to",
+        "establish",
+        "contact",
+        "with",
+        "the",
+        "Indian",
+        "Embassy",
+        "as",
+        "well",
+        ",",
+        "but",
+        "network",
+        "problems",
+        "made",
+        "that",
+        "difficult",
+        "."
+      ],
+      "lemma": [
+        "we",
+        "be",
+        "try",
+        "to",
+        "establish",
+        "contact",
+        "with",
+        "the",
+        "indian",
+        "embassy",
+        "as",
+        "well",
+        ",",
+        "but",
+        "network",
+        "problem",
+        "make",
+        "that",
+        "difficult",
+        "."
+      ],
+      "pos": [
+        "PRON",
+        "AUX",
+        "VERB",
+        "PART",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "DET",
+        "ADJ",
+        "PROPN",
+        "ADP",
+        "ADV",
+        "PUNCT",
+        "CONJ",
+        "NOUN",
+        "NOUN",
+        "VERB",
+        "PRON",
+        "ADJ",
+        "PUNCT"
+      ],
+      "whitespace": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "CEFR": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        1,
+        0,
+        0,
+        1,
+        -1,
+        0,
+        0,
+        -2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        -2
+      ],
+      "form": [
+        "were doing",
+        "to do",
+        "were did"
+      ],
+      "tense1": [
+        "be doing",
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "inf.",
+        "ind. (past)"
+      ],
+      "CEFR_tense": 1.5,
+      "tense_span": [
+        [
+          269,
+          270
+        ],
+        [
+          272,
+          271
+        ],
+        [
+          284,
+          269
+        ]
+      ],
+      "clause_form": [
+        "but"
+      ],
+      "clause": [
+        "cc"
+      ],
+      "clause_span": [
+        [
+          281,
+          284
+        ]
+      ],
+      "CEFR_vocabulary": 3,
+      "CEFR_clause": 2.0,
+      "phrase": [
+        "contact with (one)",
+        "as well"
+      ],
+      "phrase_span": [
+        [
+          273,
+          274
+        ],
+        [
+          278,
+          279
+        ]
+      ],
+      "phrase_confidence": [
+        0.5,
+        1.0
+      ],
+      "phrase_ambiguous": [
+        false,
+        true
+      ],
+      "phrase_is_idiom": [
+        true,
+        true
+      ]
+    },
+    "12": {
+      "id": [
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "word": [
+        "\n\n",
+        "Fighter",
+        "planes",
+        "flew",
+        "over",
+        "the",
+        "guest",
+        "house",
+        "where",
+        "we",
+        "were",
+        "staying",
+        ",",
+        "dropping",
+        "ammunition",
+        "and",
+        "missiles",
+        "."
+      ],
+      "lemma": [
+        "\n\n",
+        "fighter",
+        "plane",
+        "fly",
+        "over",
+        "the",
+        "guest",
+        "house",
+        "where",
+        "we",
+        "be",
+        "stay",
+        ",",
+        "drop",
+        "ammunition",
+        "and",
+        "missile",
+        "."
+      ],
+      "pos": [
+        "SPACE",
+        "PROPN",
+        "NOUN",
+        "VERB",
+        "ADP",
+        "DET",
+        "NOUN",
+        "NOUN",
+        "CONJ",
+        "PRON",
+        "AUX",
+        "VERB",
+        "PUNCT",
+        "VERB",
+        "NOUN",
+        "CONJ",
+        "NOUN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "CEFR": [
+        -2,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2,
+        1,
+        5,
+        0,
+        4,
+        -2
+      ],
+      "form": [
+        "did",
+        "were doing"
+      ],
+      "tense1": [
+        "do",
+        "be doing"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "ind. (past)"
+      ],
+      "CEFR_tense": 1.5,
+      "tense_span": [
+        [
+          291
+        ],
+        [
+          298,
+          299
+        ]
+      ],
+      "clause_form": [
+        "where",
+        "part. (present)"
+      ],
+      "clause": [
+        "relcl",
+        "advcl"
+      ],
+      "clause_span": [
+        [
+          296,
+          297,
+          298,
+          299
+        ],
+        [
+          301,
+          302,
+          303,
+          304
+        ]
+      ],
+      "CEFR_vocabulary": 5,
+      "CEFR_clause": 2.3,
+      "phrase": [
+        "fly over (someone or something)",
+        "guest house"
+      ],
+      "phrase_span": [
+        [
+          291,
+          292
+        ],
+        [
+          294,
+          295
+        ]
+      ],
+      "phrase_confidence": [
+        1.0,
+        1.0
+      ],
+      "phrase_ambiguous": [
+        true,
+        false
+      ],
+      "phrase_is_idiom": [
+        true,
+        true
+      ]
+    },
+    "13": {
+      "id": [
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321
+      ],
+      "word": [
+        "\n\n",
+        "We",
+        "were",
+        "very",
+        "worried",
+        "about",
+        "how",
+        "to",
+        "get",
+        "to",
+        "a",
+        "safe",
+        "place",
+        "in",
+        "Sudan",
+        "."
+      ],
+      "lemma": [
+        "\n\n",
+        "we",
+        "be",
+        "very",
+        "worried",
+        "about",
+        "how",
+        "to",
+        "get",
+        "to",
+        "a",
+        "safe",
+        "place",
+        "in",
+        "sudan",
+        "."
+      ],
+      "pos": [
+        "SPACE",
+        "PRON",
+        "VERB",
+        "ADV",
+        "ADJ",
+        "ADP",
+        "CONJ",
+        "PART",
+        "VERB",
+        "ADP",
+        "DET",
+        "ADJ",
+        "NOUN",
+        "ADP",
+        "PROPN",
+        "PUNCT"
+      ],
+      "whitespace": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "CEFR": [
+        -2,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -2
+      ],
+      "form": [
+        "were",
+        "to do"
+      ],
+      "tense1": [
+        "do",
+        "do"
+      ],
+      "tense2": [
+        "ind. (past)",
+        "inf."
+      ],
+      "CEFR_tense": 0.5,
+      "tense_span": [
+        [
+          308
+        ],
+        [
+          313,
+          314
+        ]
+      ],
+      "clause_form": [
+        "how"
+      ],
+      "clause": [
+        "ncl"
+      ],
+      "clause_span": [
+        [
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320
+        ]
+      ],
+      "CEFR_vocabulary": 1,
+      "CEFR_clause": 2.6,
+      "phrase": [
+        "get to (someone or something)",
+        "place in"
+      ],
+      "phrase_span": [
+        [
+          314,
+          315
+        ],
+        [
+          318,
+          319
+        ]
+      ],
+      "phrase_confidence": [
+        1.0,
+        0.5
+      ],
+      "phrase_ambiguous": [
+        true,
+        false
+      ],
+      "phrase_is_idiom": [
+        true,
+        true
+      ]
+    }
+  },
+  "wordlists": {
+    "-1": {
+      "lemma": [
+        "sudan",
+        "april",
+        "india",
+        "un",
+        "displacement",
+        "dtm",
+        "embassy",
+        "fighter",
+        "forces",
+        "international",
+        "iom",
+        "khartoum",
+        "matrix",
+        "migration",
+        "mr.",
+        "omega",
+        "organization",
+        "rapid",
+        "rsf",
+        "sharma",
+        "support",
+        "tracking"
+      ],
+      "pos": [
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN",
+        "PROPN"
+      ],
+      "size": [
+        3,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "0": {
+      "lemma": [
+        "the",
+        "be",
+        "and",
+        "to",
+        "we",
+        "have",
+        "in",
+        "to",
+        "a",
+        "at",
+        "be",
+        "country",
+        "of",
+        "people",
+        "with",
+        "'s",
+        "about",
+        "airport",
+        "by",
+        "get",
+        "house",
+        "how",
+        "include",
+        "live",
+        "more",
+        "on",
+        "than",
+        "there",
+        "time",
+        "try",
+        "well",
+        "who",
+        "work",
+        "also",
+        "anyone",
+        "as",
+        "both",
+        "break",
+        "brother",
+        "but",
+        "capital",
+        "city",
+        "clean",
+        "company",
+        "difficult",
+        "even",
+        "fly",
+        "for",
+        "go",
+        "he",
+        "help",
+        "his",
+        "home",
+        "i",
+        "it",
+        "kilometre",
+        "make",
+        "move",
+        "not",
+        "out",
+        "over",
+        "place",
+        "plane",
+        "plant",
+        "problem",
+        "return",
+        "safe",
+        "same",
+        "start",
+        "stay",
+        "that",
+        "thing",
+        "third",
+        "two",
+        "very",
+        "when",
+        "where",
+        "worker",
+        "would",
+        "year"
+      ],
+      "pos": [
+        "DET",
+        "AUX",
+        "CONJ",
+        "PART",
+        "PRON",
+        "AUX",
+        "ADP",
+        "ADP",
+        "DET",
+        "ADP",
+        "VERB",
+        "NOUN",
+        "ADP",
+        "NOUN",
+        "ADP",
+        "PART",
+        "ADP",
+        "NOUN",
+        "ADP",
+        "VERB",
+        "NOUN",
+        "CONJ",
+        "VERB",
+        "VERB",
+        "ADJ",
+        "ADP",
+        "ADP",
+        "ADV",
+        "NOUN",
+        "VERB",
+        "ADV",
+        "PRON",
+        "VERB",
+        "ADV",
+        "PRON",
+        "ADP",
+        "CONJ",
+        "VERB",
+        "NOUN",
+        "CONJ",
+        "NOUN",
+        "NOUN",
+        "VERB",
+        "NOUN",
+        "ADJ",
+        "ADV",
+        "VERB",
+        "ADP",
+        "VERB",
+        "PRON",
+        "VERB",
+        "PRON",
+        "ADV",
+        "PRON",
+        "PRON",
+        "NOUN",
+        "VERB",
+        "VERB",
+        "ADV",
+        "ADP",
+        "ADP",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "VERB",
+        "ADJ",
+        "ADJ",
+        "VERB",
+        "VERB",
+        "PRON",
+        "NOUN",
+        "ADJ",
+        "NUM",
+        "ADV",
+        "CONJ",
+        "CONJ",
+        "NOUN",
+        "AUX",
+        "NOUN"
+      ],
+      "size": [
+        17,
+        12,
+        8,
+        7,
+        7,
+        6,
+        6,
+        6,
+        4,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "1": {
+      "lemma": [
+        "guest",
+        "since",
+        "worried",
+        "able",
+        "almost",
+        "army",
+        "burn",
+        "contact",
+        "contact",
+        "destroy",
+        "drop",
+        "environment",
+        "fight",
+        "indian",
+        "kill",
+        "lock",
+        "metal",
+        "national",
+        "network",
+        "outside",
+        "provide",
+        "recycle",
+        "support",
+        "themselves",
+        "unit",
+        "while",
+        "whose"
+      ],
+      "pos": [
+        "NOUN",
+        "CONJ",
+        "ADJ",
+        "ADJ",
+        "ADV",
+        "NOUN",
+        "VERB",
+        "NOUN",
+        "VERB",
+        "VERB",
+        "VERB",
+        "NOUN",
+        "VERB",
+        "ADJ",
+        "VERB",
+        "VERB",
+        "NOUN",
+        "ADJ",
+        "NOUN",
+        "ADP",
+        "VERB",
+        "VERB",
+        "NOUN",
+        "PRON",
+        "NOUN",
+        "CONJ",
+        "DET"
+      ],
+      "size": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "2": {
+      "lemma": [
+        "fighting",
+        "agency",
+        "aim",
+        "assist",
+        "emergency",
+        "escape",
+        "ten",
+        "thousand",
+        "violent"
+      ],
+      "pos": [
+        "NOUN",
+        "NOUN",
+        "VERB",
+        "VERB",
+        "NOUN",
+        "VERB",
+        "NOUN",
+        "NOUN",
+        "ADJ"
+      ],
+      "size": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "3": {
+      "lemma": [
+        "conflict",
+        "amongst",
+        "desperately",
+        "establish",
+        "estimate",
+        "military",
+        "national",
+        "refugee",
+        "relief",
+        "steel",
+        "unexpectedly",
+        "violence"
+      ],
+      "pos": [
+        "NOUN",
+        "ADP",
+        "ADV",
+        "VERB",
+        "VERB",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "NOUN",
+        "ADV",
+        "NOUN"
+      ],
+      "size": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "4": {
+      "lemma": [
+        "flee",
+        "neighbouring",
+        "displace",
+        "internally",
+        "missile",
+        "premise"
+      ],
+      "pos": [
+        "VERB",
+        "NOUN",
+        "VERB",
+        "ADV",
+        "NOUN",
+        "NOUN"
+      ],
+      "size": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "5": {
+      "lemma": [
+        "accord",
+        "ammunition",
+        "paramilitary",
+        "paramilitary",
+        "scrap",
+        "shell"
+      ],
+      "pos": [
+        "VERB",
+        "NOUN",
+        "ADJ",
+        "NOUN",
+        "NOUN",
+        "VERB"
+      ],
+      "size": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "tense_count": {
+    "be doing_ind. (past)": {
+      "form": [
+        "were doing",
+        "was doing"
+      ],
+      "size": [
+        3,
+        2
+      ],
+      "tense_term": [
+        "Past continuous",
+        "Past continuous"
+      ],
+      "level": [
+        1.5,
+        1.5
+      ],
+      "span": [
+        [
+          [
+            206,
+            207
+          ],
+          [
+            269,
+            270
+          ],
+          [
+            298,
+            299
+          ]
+        ],
+        [
+          [
+            149,
+            150
+          ],
+          [
+            149,
+            157
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          6,
+          11,
+          12
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    },
+    "be doing_ind. (present)": {
+      "form": [
+        "are doing"
+      ],
+      "size": [
+        2
+      ],
+      "tense_term": [
+        "Present continuous"
+      ],
+      "level": [
+        0.5
+      ],
+      "span": [
+        [
+          [
+            9,
+            7
+          ],
+          [
+            44,
+            46
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "be done_ind. (past)": {
+      "form": [
+        "was done"
+      ],
+      "size": [
+        2
+      ],
+      "tense_term": [
+        "Past simple passive"
+      ],
+      "level": [
+        2.0
+      ],
+      "span": [
+        [
+          [
+            233,
+            234
+          ],
+          [
+            242,
+            243
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          8,
+          9
+        ]
+      ]
+    },
+    "be done_ind. (present)": {
+      "form": [
+        "are done"
+      ],
+      "size": [
+        1
+      ],
+      "tense_term": [
+        "Present simple passive"
+      ],
+      "level": [
+        2.0
+      ],
+      "span": [
+        [
+          [
+            107,
+            108
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    },
+    "do_ger.": {
+      "form": [
+        "doing"
+      ],
+      "size": [
+        3
+      ],
+      "tense_term": [
+        "Gerund simple"
+      ],
+      "level": [
+        1.0
+      ],
+      "span": [
+        [
+          [
+            37
+          ],
+          [
+            51
+          ],
+          [
+            188
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0,
+          5
+        ]
+      ]
+    },
+    "do_ind. (past)": {
+      "form": [
+        "did",
+        "were",
+        "were did"
+      ],
+      "size": [
+        7,
+        2,
+        1
+      ],
+      "tense_term": [
+        "Past simple",
+        "Past simple",
+        "Past simple"
+      ],
+      "level": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "span": [
+        [
+          [
+            132
+          ],
+          [
+            145
+          ],
+          [
+            182
+          ],
+          [
+            214
+          ],
+          [
+            226
+          ],
+          [
+            246
+          ],
+          [
+            291
+          ]
+        ],
+        [
+          [
+            258
+          ],
+          [
+            308
+          ]
+        ],
+        [
+          [
+            284,
+            269
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          12
+        ],
+        [
+          10,
+          13
+        ],
+        [
+          11
+        ]
+      ]
+    },
+    "do_ind. (present)": {
+      "form": [
+        "does"
+      ],
+      "size": [
+        1
+      ],
+      "tense_term": [
+        "Present simple"
+      ],
+      "level": [
+        0.0
+      ],
+      "span": [
+        [
+          [
+            35
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0
+        ]
+      ]
+    },
+    "do_inf.": {
+      "form": [
+        "to do",
+        "would do"
+      ],
+      "size": [
+        6,
+        1
+      ],
+      "tense_term": [
+        "Infinitive with \"to\"",
+        "Infinitive with modal verb: would"
+      ],
+      "level": [
+        0.0,
+        1.0
+      ],
+      "span": [
+        [
+          [
+            10,
+            11
+          ],
+          [
+            48,
+            47
+          ],
+          [
+            184,
+            183
+          ],
+          [
+            262,
+            263
+          ],
+          [
+            272,
+            271
+          ],
+          [
+            313,
+            314
+          ]
+        ],
+        [
+          [
+            251,
+            252
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0,
+          5,
+          10,
+          11,
+          13
+        ],
+        [
+          9
+        ]
+      ]
+    },
+    "have been done_ind. (present)": {
+      "form": [
+        "have been done"
+      ],
+      "size": [
+        2
+      ],
+      "tense_term": [
+        "Present perfect passive"
+      ],
+      "level": [
+        2.5
+      ],
+      "span": [
+        [
+          [
+            75,
+            76,
+            77
+          ],
+          [
+            96,
+            97,
+            95
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "have been done_inf.": {
+      "form": [
+        "to have been done"
+      ],
+      "size": [
+        1
+      ],
+      "tense_term": [
+        "Infinitive perfect passive with \"to\""
+      ],
+      "level": [
+        4.0
+      ],
+      "span": [
+        [
+          [
+            113,
+            109,
+            110,
+            111
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    },
+    "have done_ind. (past)": {
+      "form": [
+        "had been",
+        "had done"
+      ],
+      "size": [
+        1,
+        1
+      ],
+      "tense_term": [
+        "Past perfect",
+        "Past perfect"
+      ],
+      "level": [
+        2.0,
+        2.0
+      ],
+      "span": [
+        [
+          [
+            193,
+            194
+          ]
+        ],
+        [
+          [
+            200,
+            201
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          6
+        ],
+        [
+          6
+        ]
+      ]
+    },
+    "have done_ind. (present)": {
+      "form": [
+        "have done"
+      ],
+      "size": [
+        1
+      ],
+      "tense_term": [
+        "Present perfect"
+      ],
+      "level": [
+        1.0
+      ],
+      "span": [
+        [
+          [
+            123,
+            124
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    }
+  },
+  "tense_term_count": {
+    "Gerund simple": {
+      "form": [
+        "doing"
+      ],
+      "size": [
+        3
+      ],
+      "tense": [
+        "do_ger."
+      ],
+      "level": [
+        1.0
+      ],
+      "span": [
+        [
+          [
+            37
+          ],
+          [
+            51
+          ],
+          [
+            188
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0,
+          5
+        ]
+      ]
+    },
+    "Infinitive perfect passive with \"to\"": {
+      "form": [
+        "to have been done"
+      ],
+      "size": [
+        1
+      ],
+      "tense": [
+        "have been done_inf."
+      ],
+      "level": [
+        4.0
+      ],
+      "span": [
+        [
+          [
+            113,
+            109,
+            110,
+            111
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    },
+    "Infinitive with \"to\"": {
+      "form": [
+        "to do"
+      ],
+      "size": [
+        6
+      ],
+      "tense": [
+        "do_inf."
+      ],
+      "level": [
+        0.0
+      ],
+      "span": [
+        [
+          [
+            10,
+            11
+          ],
+          [
+            48,
+            47
+          ],
+          [
+            184,
+            183
+          ],
+          [
+            262,
+            263
+          ],
+          [
+            272,
+            271
+          ],
+          [
+            313,
+            314
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0,
+          5,
+          10,
+          11,
+          13
+        ]
+      ]
+    },
+    "Infinitive with modal verb: would": {
+      "form": [
+        "would do"
+      ],
+      "size": [
+        1
+      ],
+      "tense": [
+        "do_inf."
+      ],
+      "level": [
+        1.0
+      ],
+      "span": [
+        [
+          [
+            251,
+            252
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          9
+        ]
+      ]
+    },
+    "Past continuous": {
+      "form": [
+        "were doing",
+        "was doing"
+      ],
+      "size": [
+        3,
+        2
+      ],
+      "tense": [
+        "be doing_ind. (past)",
+        "be doing_ind. (past)"
+      ],
+      "level": [
+        1.5,
+        1.5
+      ],
+      "span": [
+        [
+          [
+            206,
+            207
+          ],
+          [
+            269,
+            270
+          ],
+          [
+            298,
+            299
+          ]
+        ],
+        [
+          [
+            149,
+            150
+          ],
+          [
+            149,
+            157
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          6,
+          11,
+          12
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    },
+    "Past perfect": {
+      "form": [
+        "had been",
+        "had done"
+      ],
+      "size": [
+        1,
+        1
+      ],
+      "tense": [
+        "have done_ind. (past)",
+        "have done_ind. (past)"
+      ],
+      "level": [
+        2.0,
+        2.0
+      ],
+      "span": [
+        [
+          [
+            193,
+            194
+          ]
+        ],
+        [
+          [
+            200,
+            201
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          6
+        ],
+        [
+          6
+        ]
+      ]
+    },
+    "Past simple": {
+      "form": [
+        "did",
+        "were",
+        "were did"
+      ],
+      "size": [
+        7,
+        2,
+        1
+      ],
+      "tense": [
+        "do_ind. (past)",
+        "do_ind. (past)",
+        "do_ind. (past)"
+      ],
+      "level": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "span": [
+        [
+          [
+            132
+          ],
+          [
+            145
+          ],
+          [
+            182
+          ],
+          [
+            214
+          ],
+          [
+            226
+          ],
+          [
+            246
+          ],
+          [
+            291
+          ]
+        ],
+        [
+          [
+            258
+          ],
+          [
+            308
+          ]
+        ],
+        [
+          [
+            284,
+            269
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          12
+        ],
+        [
+          10,
+          13
+        ],
+        [
+          11
+        ]
+      ]
+    },
+    "Past simple passive": {
+      "form": [
+        "was done"
+      ],
+      "size": [
+        2
+      ],
+      "tense": [
+        "be done_ind. (past)"
+      ],
+      "level": [
+        2.0
+      ],
+      "span": [
+        [
+          [
+            233,
+            234
+          ],
+          [
+            242,
+            243
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          8,
+          9
+        ]
+      ]
+    },
+    "Present continuous": {
+      "form": [
+        "are doing"
+      ],
+      "size": [
+        2
+      ],
+      "tense": [
+        "be doing_ind. (present)"
+      ],
+      "level": [
+        0.5
+      ],
+      "span": [
+        [
+          [
+            9,
+            7
+          ],
+          [
+            44,
+            46
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "Present perfect": {
+      "form": [
+        "have done"
+      ],
+      "size": [
+        1
+      ],
+      "tense": [
+        "have done_ind. (present)"
+      ],
+      "level": [
+        1.0
+      ],
+      "span": [
+        [
+          [
+            123,
+            124
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    },
+    "Present perfect passive": {
+      "form": [
+        "have been done"
+      ],
+      "size": [
+        2
+      ],
+      "tense": [
+        "have been done_ind. (present)"
+      ],
+      "level": [
+        2.5
+      ],
+      "span": [
+        [
+          [
+            75,
+            76,
+            77
+          ],
+          [
+            96,
+            97,
+            95
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "Present simple": {
+      "form": [
+        "does"
+      ],
+      "size": [
+        1
+      ],
+      "tense": [
+        "do_ind. (present)"
+      ],
+      "level": [
+        0.0
+      ],
+      "span": [
+        [
+          [
+            35
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          0
+        ]
+      ]
+    },
+    "Present simple passive": {
+      "form": [
+        "are done"
+      ],
+      "size": [
+        1
+      ],
+      "tense": [
+        "be done_ind. (present)"
+      ],
+      "level": [
+        2.0
+      ],
+      "span": [
+        [
+          [
+            107,
+            108
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          2
+        ]
+      ]
+    }
+  },
+  "clause_count": {
+    "advcl": {
+      "clause_form": [
+        "part. (present)_2.0",
+        "since_2.0",
+        "when_1.0",
+        "while_1.0"
+      ],
+      "size": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "clause_span": [
+        [
+          [
+            301,
+            302,
+            303,
+            304
+          ]
+        ],
+        [
+          [
+            198,
+            199,
+            200,
+            201,
+            202
+          ]
+        ],
+        [
+          [
+            239,
+            240,
+            241,
+            242,
+            243
+          ]
+        ],
+        [
+          [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          12
+        ],
+        [
+          6
+        ],
+        [
+          9
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "cc": {
+      "clause_form": [
+        "and_0.0",
+        "but_0.0"
+      ],
+      "size": [
+        1,
+        1
+      ],
+      "clause_span": [
+        [
+          [
+            204,
+            207
+          ]
+        ],
+        [
+          [
+            281,
+            284
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          6
+        ],
+        [
+          11
+        ]
+      ]
+    },
+    "ncl": {
+      "clause_form": [
+        "how_3.0"
+      ],
+      "size": [
+        2
+      ],
+      "clause_span": [
+        [
+          [
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+          ],
+          [
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          9,
+          13
+        ]
+      ]
+    },
+    "relcl": {
+      "clause_form": [
+        "(that)_2.0",
+        "where_2.0",
+        "who_1.0"
+      ],
+      "size": [
+        1,
+        1,
+        2
+      ],
+      "clause_span": [
+        [
+          [
+            144,
+            145,
+            146
+          ]
+        ],
+        [
+          [
+            296,
+            297,
+            298,
+            299
+          ]
+        ],
+        [
+          [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ]
+        ]
+      ],
+      "sentence_id": [
+        [
+          4
+        ],
+        [
+          12
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    }
+  },
+  "phrase_count": {
+    "according to (someone or something)": {
+      "id": 15809,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          86,
+          87
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        2
+      ]
+    },
+    "aim at (someone or something)": {
+      "id": 36450,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          35,
+          36
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        0
+      ]
+    },
+    "as well": {
+      "id": 61746,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          278,
+          279
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        11
+      ]
+    },
+    "at the same time": {
+      "id": 58432,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        0
+      ]
+    },
+    "at the time": {
+      "id": 62641,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          141,
+          142,
+          143
+        ]
+      ],
+      "phrase_confidence": [
+        0.6666666666666666
+      ],
+      "sentence_id": [
+        4
+      ]
+    },
+    "be locked in": {
+      "id": 34490,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          76,
+          77,
+          78
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        1
+      ]
+    },
+    "break out": {
+      "id": 37095,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          145,
+          146
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        4
+      ]
+    },
+    "contact with (one)": {
+      "id": 26432,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          273,
+          274
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "sentence_id": [
+        11
+      ]
+    },
+    "fight amongst": {
+      "id": 32299,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          226,
+          227
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        8
+      ]
+    },
+    "flee to (something)": {
+      "id": 33381,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          124,
+          125
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        2
+      ]
+    },
+    "fly over (someone or something)": {
+      "id": 28939,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          291,
+          292
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        12
+      ]
+    },
+    "get to (someone or something)": {
+      "id": 16037,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          314,
+          315
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        13
+      ]
+    },
+    "go well": {
+      "id": 65106,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          207,
+          208
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        6
+      ]
+    },
+    "guest house": {
+      "id": 48937,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 2,
+      "phrase_span": [
+        [
+          163,
+          164
+        ],
+        [
+          294,
+          295
+        ]
+      ],
+      "phrase_confidence": [
+        1.0,
+        1.0
+      ],
+      "sentence_id": [
+        4,
+        12
+      ]
+    },
+    "help to": {
+      "id": -16,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          9,
+          10
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "sentence_id": [
+        0
+      ]
+    },
+    "home to (something)": {
+      "id": 15722,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          253,
+          254
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "sentence_id": [
+        9
+      ]
+    },
+    "international organization": {
+      "id": 31910,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": false,
+      "size": 1,
+      "phrase_span": [
+        [
+          18,
+          19
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        0
+      ]
+    },
+    "live with (someone or something)": {
+      "id": 28795,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          157,
+          158
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        4
+      ]
+    },
+    "move to some place": {
+      "id": 22077,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          132,
+          133
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        3
+      ]
+    },
+    "place in": {
+      "id": 61784,
+      "phrase_ambiguous": false,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          318,
+          319
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "sentence_id": [
+        13
+      ]
+    },
+    "third country": {
+      "id": 51017,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          40,
+          41
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        0
+      ]
+    },
+    "work at (something or some place)": {
+      "id": 45741,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          150,
+          151
+        ]
+      ],
+      "phrase_confidence": [
+        1.0
+      ],
+      "sentence_id": [
+        4
+      ]
+    },
+    "work to": {
+      "id": 24822,
+      "phrase_ambiguous": true,
+      "phrase_is_idiom": true,
+      "size": 1,
+      "phrase_span": [
+        [
+          182,
+          183
+        ]
+      ],
+      "phrase_confidence": [
+        0.5
+      ],
+      "sentence_id": [
+        5
+      ]
+    }
+  },
+  "final_levels": {
+    "general_level": 3.5,
+    "vocabulary_level": 3.0,
+    "tense_level": 2.5,
+    "clause_level": 4.0
+  },
+  "allowed_remaining": {
+    "remaining_coins": 42,
+    "max_coins": 42,
+    "next_refill": 31094763
+  }
+}

@@ -4,6 +4,34 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+
+def statistics(text:str, title:str|None=None) -> dict:
+  endpoint = 'https://enterpriseapi.cathoven.com/cefr/process_text'
+  # Set the form data
+  data = {
+    "client_id": os.environ.get("CATILE_CLIENT_ID"),
+    "client_secret": os.environ.get("CATILE_CLIENT_SECRET"),
+    "text": text,
+    "title": title,
+    "return_final_levels": "true",
+    "return_wordlists": "true",
+    "return_tense_count": "true",
+    "return_tense_term_count": "true",
+    "return_clause_count": "true",
+    "return_phrase_count": "true",
+    "return_sentences": "true",
+  }
+
+  # Send the POST request
+  response = requests.post(endpoint, data=data)
+
+  # Check the response status code
+  if response.status_code == 200:
+    return response.json()
+  else:
+    print("Request failed with status code:", response.status_code)
+
+
 def simplifier(text:str, target_level:int, title:str|None=None) -> dict:
   endpoint = 'https://enterpriseapi.cathoven.com/adaptor/adapt'
   # Set the form data
